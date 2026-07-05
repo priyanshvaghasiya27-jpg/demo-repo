@@ -1,3 +1,5 @@
 Hello update
 Namaste
-1234567890
+12345
+67890
+print(Hello Word)
